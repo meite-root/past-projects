@@ -24,7 +24,7 @@ Implemented a negative binomial model with multi-way clustered standard errors, 
 
 ---
 
-## 3. Zambia REMP - Sample
+## 3. Zambia REMP (research assistantship)
 
 **Description:**  
 This project focuses on analyzing the rollout of the Zambian Rural Electrification Master Plan (REMP) and its implications for local communities.
@@ -37,14 +37,14 @@ A key step involved determining the precise locations of 7,130 schools across Za
 
 ---
 
-## 4. High Frequency Checks – Sample
+## 4. High Frequency Checks – Sample (research assistantship)
 
 **Description:**  
 Developed a Stata script for high-frequency data checks to support 200 field interviewers in Nigeria (NYSC project), ensuring consistent survey responses.
 
 ---
 
-## 5. Soil – Geospatial Control Variables – Sample
+## 5. Soil – Geospatial Control Variables – Sample (research assistantship)
 
 **Description:**  
 Produced R scripts to generate geo-spatial control variables for the project “The Curse of Good Soil? Land Fertility, Roads, and Rural Poverty in Africa,” using various spatial analysis packages (terra, raster, sf) and raster data (night-lights, population, land cover).
