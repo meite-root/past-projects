@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200323</CreaDate><CreaTime>15221500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ZonalStatisticsAsTable" Date="20200323" Time="151913">ZonalStatisticsAsTable homelands_arcGIS FID_1 projected_pop C:\Stelios_replica\Population_raster\zonal_pop DATA ALL</Process></lineage></DataProperties></Esri></metadata>

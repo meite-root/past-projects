@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200324</CreaDate><CreaTime>15314800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Analysis Tools.tbx\GenerateNearTable" Date="20200324" Time="153018">GenerateNearTable homelands_centroids africa_cap_cities C:\Stelios_replica\capital_cities\homelands_capi_dist # NO_LOCATION NO_ANGLE CLOSEST 0 PLANAR</Process></lineage></DataProperties></Esri></metadata>
