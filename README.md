@@ -17,7 +17,7 @@ A key step involved determining the precise locations of 7,130 schools across Za
 
 ---
 
-## 2. Master’s Thesis: Skilled Workers’ Mobility and Attrition
+## 2. Skilled Workers’ Mobility
 
 **Title:**  
 “Skilled Workers’ Mobility and Attrition: The Case of Florida Emergency Medicine Physicians” (August 2023)
@@ -26,5 +26,13 @@ A key step involved determining the precise locations of 7,130 schools across Za
 Implemented a Cox Proportional-Hazards model and fixed-effects logistic regressions to investigate relocation patterns of Florida EM physicians between 2006 and 2020, capturing their demand (preferences) for work amenities.
 
 ---
+## 3. Armed Conflict
 
+**Title:**  
+“Colonial Legacies and Contemporary Armed Conflict in Africa” (May 2020)
+
+**Description:**  
+Implemented a negative binomial model with multi-way clustered standard errors, leveraging geospatial conflict data and demographic, geographic, and ecological datasets to assess colonial legacies’ impact on contemporary African conflicts (ArcGIS, Stata).
+
+---
 Feel free to explore other projects in this repository to see a variety of analyses and code examples.
