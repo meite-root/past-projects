@@ -1,6 +1,5 @@
 /*------------------------------------------------------------------------------
-High Frequency Checks for the Endline data collection NYSC Project- student 
-survey, Benin, July 2022
+High Frequency Checks for the Endline data collection NYSC Project
 -------------------------------------------------------------------------------*/
 
 
