@@ -33,7 +33,7 @@ This project focuses on analyzing the rollout of the Zambian Rural Electrificati
 
 A key step involved determining the precise locations of 7,130 schools across Zambia by matching each school to its corresponding Ward and District. For a detailed overview of the approach and results, see the interactive HTML output here:
 
-[**Zambia—School-electrification—School-to-ward-matching (HTML Preview)**](https://html-preview.github.io/?url=https://github.com/meite-root/past-projects/blob/db6daf70f32b950f036cec7ba66eeb22011690b3/Zambia%20REMP/Zambia---School-electrification---School-to-ward-matching.html)
+[**Zambia—School-electrification—School-to-ward-matching (HTML Preview)**](https://html-preview.github.io/?url=https://github.com/meite-root/past-scripts/blob/780becdc6f96be91da70cf9d119d9220c843f06e/sample%20-%20Zambia%20REMP/Zambia---School-electrification---School-to-ward-matching.html)
 
 ---
 
